@@ -9,10 +9,10 @@ One of the Nmap best known command is remote OS detection using TCP/IP stack fin
   ![image](https://user-images.githubusercontent.com/61587800/233003030-a70d44bf-08f6-4f8d-afd4-4a6f1dded2ea.png)
 
   3. nmap -sV -O -v target
-  
+<pre>  
   ┌──(unknown㉿anon)-[~]
 └─$ sudo  nmap -sV -O -v 192.168.1.4
-Starting Nmap 7.93 ( https://nmap.org ) at 2023-04-19 13:08 IST
+Starting Nmap 7.93 ( https://nmap.org ) at 2023-04-19 13:08 IST 
 NSE: Loaded 45 scripts for scanning.
 Initiating ARP Ping Scan at 13:08
 Scanning 192.168.1.4 [1 port]
@@ -66,4 +66,4 @@ OS and Service detection performed. Please report any incorrect results at https
 Nmap done: 1 IP address (1 host up) scanned in 135.99 seconds
            Raw packets sent: 2031 (91.202KB) | Rcvd: 17 (1.070KB)
 
-
+</pre>
