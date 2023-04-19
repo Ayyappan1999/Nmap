@@ -9,3 +9,9 @@
   -> The NSE is designed to be extensible, so users can create their own libraries of scripts and share them with others. Additionally, the NSE supports script categories, allowing users to easily find and run scripts that meet their specific needs.
 
 
+### Commands
+
+  1. nmap --script default target
+  2. nmap -sC targetip
+  
+ 
