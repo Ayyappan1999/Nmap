@@ -1,8 +1,10 @@
 ### NMAP Tips, Tricks and Secrets every hacker should know!
 
 
-<pre>
+
 # Nmap Commands
+
+<pre>
 
 Nmap 7.93 ( https://nmap.org )
 Usage: nmap [Scan Type(s)] [Options] {target specification}
